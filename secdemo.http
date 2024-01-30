@@ -1,0 +1,6 @@
+@secdemo_HostAddress = http://localhost:5071
+
+GET {{secdemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
