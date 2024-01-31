@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-//secret: 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
+//secret: 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
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
